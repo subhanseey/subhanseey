@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:7C3AED,100:4C1D95&height=220&section=header&text=Subhanseey&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:7C3AED,100:4C1D95&height=220&section=header&text=Khu%20Subhanseey&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/subhanseey">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+AI%2FML+systems;Civic-tech+%7C+Computer+Vision+%7C+LLM+Agents;B.Tech+CSE+(Data+Science)+%40+LTCE;Hackathon+Builder+%E2%80%94+AMD+%7C+Samsung+%7C+BlockseBlock;Turning+ideas+into+deployed+products&font=Fira%20Code&center=true&width=760&height=50&color=C4B5FD&vCenter=true&size=22&pause=1200"/>
@@ -110,58 +110,6 @@ Solved a real deployment gauntlet along the way — PyAudio on Windows, Gemini m
 
 </details>
 
-<details>
-<summary><b>🤖 Smart Pick-and-Place Robotic Arm + IMU Fall Detection</b></summary>
-<br/>
-
-A robotics team project combining a robotic pick-and-place arm with a wearable, IMU-based smart tracking device capable of ML-driven fall detection.
-
-|  |  |
-|---|---|
-| **Stack** | Robotic arm control, IMU sensor fusion, ConvLSTM / TSFallDetect-inspired ML models |
-| **Scale** | Multi-member robotics team project |
-| **Performance** | Research-backed grasping strategy (OptiGrasp) + time-series fall detection |
-| **Security** | On-device sensor processing |
-| **Impact** | Assistive robotics for safety monitoring + automated object handling |
-| **Repository** | Private / In Development |
-
-Backed by literature review across robotic grasping surveys and fall-detection research (ConvLSTM, TSFallDetect) to inform model architecture choices.
-
-</details>
-
-<details>
-<summary><b>📄 RESUMIND — Smart Resume Screening System</b></summary>
-<br/>
-
-Faculty-guided mini project (4-member team) that automates resume screening and candidate-role matching.
-
-|  |  |
-|---|---|
-| **Stack** | Python, NLP-based resume parsing, LaTeX-generated technical report |
-| **Scale** | Academic mini-project, team of 4 |
-| **Performance** | Automated structured extraction and screening logic |
-| **Security** | N/A (academic scope) |
-| **Impact** | Reduced manual resume triage effort |
-| **Repository** | Available on request |
-
-</details>
-
-<details>
-<summary><b>🤟 MudraAI — Real-Time Indian Sign Language Interpreter</b></summary>
-<br/>
-
-Concept and prototype direction for a real-time ISL interpreter aimed at public service counters, designed to improve accessibility for deaf-mute citizens in Tier 2/3 Indian cities.
-
-|  |  |
-|---|---|
-| **Stack** | Computer Vision, real-time gesture recognition |
-| **Scale** | Innovation-competition concept / early prototype |
-| **Performance** | Targeted for low-latency, on-counter interpretation |
-| **Security** | N/A |
-| **Impact** | Accessibility for deaf-mute citizens at public service points |
-| **Repository** | In Development |
-
-</details>
 
 <br/>
 

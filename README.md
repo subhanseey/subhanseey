@@ -15,9 +15,8 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-url.example.com"><img src="https://img.shields.io/badge/Portfolio-6B21A8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/subhanseey/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:subhanseey@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/subhanseey"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -206,27 +205,11 @@ Leading ideation and technical implementation across multi-person hackathon team
 
 <div align="center">
 
-**Add your certification badges below as you complete them**
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS-Add%20Certification-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Add%20Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Add%20Certification-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cisco-Add%20Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-
-</div>
-
+**Complete Data Science, Machine Learning, DL, NLP Bootcamp**
 <br/>
-
----
-
-### 🟣 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/></a>
-<a href="https://www.geeksforgeeks.org/user/your-handle"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/your-handle"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/your-handle"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+Krish Naik · KRISHAI Technologies Private Limited — 101.5 hours
 
 </div>
 
@@ -315,10 +298,9 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:subhanseey@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/subhanseey/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/subhanseey"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-url.example.com"><img src="https://img.shields.io/badge/Portfolio-6B21A8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 

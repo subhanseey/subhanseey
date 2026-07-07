@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:7C3AED,100:4C1D95&height=220&section=header&text=Khu%20Subhanseey&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:7C3AED,100:4C1D95&height=220&section=header&text=Subhanseey&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/subhanseey">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+AI%2FML+systems;Civic-tech+%7C+Computer+Vision+%7C+LLM+Agents;B.Tech+CSE+(Data+Science)+%40+LTCE;Hackathon+Builder+%E2%80%94+AMD+%7C+Samsung+%7C+BlockseBlock;Turning+ideas+into+deployed+products&font=Fira%20Code&center=true&width=760&height=50&color=C4B5FD&vCenter=true&size=22&pause=1200"/>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:7C3AED,100:4C1D95&height=220&section=header&text=Subhanseey&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:7C3AED,100:4C1D95&height=220&section=header&text=Subhansee Yadav&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/subhanseey">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+AI%2FML+systems;Civic-tech+%7C+Computer+Vision+%7C+LLM+Agents;B.Tech+CSE+(Data+Science)+%40+LTCE;Hackathon+Builder+%E2%80%94+AMD+%7C+Samsung+%7C+BlockseBlock;Turning+ideas+into+deployed+products&font=Fira%20Code&center=true&width=760&height=50&color=C4B5FD&vCenter=true&size=22&pause=1200"/>
@@ -33,7 +33,7 @@
 
 ### 🟣 About Me
 
-I'm a Computer Science & Engineering (Data Science) undergraduate at **Lokmanya Tilak College of Engineering**, Navi Mumbai, focused on shipping real, deployable AI/ML systems rather than notebooks that never leave `localhost`. My work sits at the intersection of **applied machine learning, full-stack product engineering, and civic-tech impact** — from Gemini-powered computer vision pipelines to multi-agent systems and embedded robotics.
+I'm a Computer Science & Engineering (Data Science) undergraduate at **Lokmanya Tilak College of Engineering**, Navi Mumbai, focused on shipping real, deployable AI/ML systems rather than notebooks that never leave `localhost`. My work centers on **applied machine learning and civic-tech impact** — from Gemini-powered computer vision pipelines to multi-agent automation.
 
 I actively compete in hackathons as a technical lead, taking projects from a whiteboard idea through model integration, cloud deployment, and a working demo — usually against a hard deadline and a GPU that's running low on memory.
 
@@ -54,36 +54,13 @@ Currently:
 <br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark"/>
 
-**Frontend**
+**AI / ML & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,streamlit,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,streamlit&theme=dark"/>
 
-**Backend, Data & ML**
+**Cloud & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,tensorflow,sklearn,opencv&theme=dark"/>
-
-**Cloud, DevOps & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vscode,anaconda,linux&theme=dark"/>
-
-<br/>
-
----
-
-### 🟣 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Generative AI / LLM Integration | ⭐⭐⭐⭐☆ | Google Gemini (Vision + text), LangChain agent pipelines, prompt engineering |
-| Computer Vision | ⭐⭐⭐⭐☆ | Image classification, deduplication pipelines, sign-language interpretation concepts |
-| Deep Learning | ⭐⭐⭐⭐☆ | TensorFlow/Keras (SimpleRNN, ConvLSTM), model retraining across framework versions |
-| Multi-Agent Systems | ⭐⭐⭐☆☆ | SLA escalation agents, hotspot detection logic for civic-tech platforms |
-| MLOps / Deployment | ⭐⭐⭐⭐☆ | Docker, Google Cloud Run, dependency-pinned reproducible environments |
-| GPU Systems | ⭐⭐⭐☆☆ | Debugging memory/compute issues on AMD MI300 with vLLM |
-
-</div>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,anaconda&theme=dark"/>
 
 <br/>
 
@@ -110,6 +87,22 @@ Solved a real deployment gauntlet along the way — PyAudio on Windows, Gemini m
 
 </details>
 
+<details>
+<summary><b>📄 RESUMIND — Smart Resume Screening System</b></summary>
+<br/>
+
+Faculty-guided mini project (4-member team) that automates resume screening and candidate-role matching.
+
+|  |  |
+|---|---|
+| **Stack** | Python, NLP-based resume parsing, LaTeX-generated technical report |
+| **Scale** | Academic mini-project, team of 4 |
+| **Performance** | Automated structured extraction and screening logic |
+| **Security** | N/A (academic scope) |
+| **Impact** | Reduced manual resume triage effort |
+| **Repository** | Available on request |
+
+</details>
 
 <br/>
 
@@ -125,9 +118,8 @@ Leading ideation and technical implementation across multi-person hackathon team
 - Led solo build and deployment of Community Hero for BlockseBlock Vibe Coding Hackathon
 - Currently competing in AMD Developer Hackathon: ACT II, working with AMD MI300 GPUs and vLLM
 - Generated and refined multi-theme problem statements for Samsung Solve for Tomorrow 2026
-- Collaborating on a robotics team combining mechanical pick-and-place systems with ML-based sensing
 
-`Python` `Streamlit` `Gemini API` `LangChain` `Docker` `Google Cloud Run` `TensorFlow`
+`Python` `Streamlit` `Gemini API` `Docker` `Google Cloud Run` `TensorFlow`
 
 <br/>
 
@@ -184,7 +176,7 @@ Krish Naik · KRISHAI Technologies Private Limited — 101.5 hours
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhanseey&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=subhanseey&theme=gitdimmed&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -220,17 +212,11 @@ Krish Naik · KRISHAI Technologies Private Limited — 101.5 hours
 
 ```yaml
 Learning:
-  - Advanced multi-agent architectures
+  - LangChain for generative AI development
   - GPU optimization on AMD MI300 (vLLM)
-  - Computer vision for accessibility tech
 
 Building:
-  - Robotic arm + IMU fall-detection system
   - Civic-tech platforms with LLM-driven automation
-
-Exploring:
-  - Real-time sign language interpretation (MudraAI)
-  - Scalable deployment patterns for AI products
 
 Open To:
   - Hackathon collaborations

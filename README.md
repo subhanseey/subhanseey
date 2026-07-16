@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:7C3AED,100:4C1D95&height=220&section=header&text=Subhansee Yadav&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:C4B5FD&height=220&section=header&text=Subhansee Yadav&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%2FML%20Builder%20-%20Data%20Science%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/subhanseey">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+AI%2FML+systems;Civic-tech+%7C+Computer+Vision+%7C+LLM+Agents;B.Tech+CSE+(Data+Science)+%40+LTCE;Hackathon+Builder+%E2%80%94+AMD+%7C+Samsung+%7C+BlockseBlock;Turning+ideas+into+deployed+products&font=Fira%20Code&center=true&width=760&height=50&color=C4B5FD&vCenter=true&size=22&pause=1200"/>
@@ -8,22 +8,22 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-6B21A8?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Semester-IV-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/College-Lokmanya%20Tilak%20College%20of%20Engineering-4C1D95?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍-Navi%20Mumbai%2C%20India-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-8B5CF6?style=flat-square&labelColor=312E81"/>
+<img src="https://img.shields.io/badge/Semester-IV-A78BFA?style=flat-square&labelColor=312E81"/>
+<img src="https://img.shields.io/badge/College-Lokmanya%20Tilak%20College%20of%20Engineering-7C3AED?style=flat-square&labelColor=312E81"/>
+<img src="https://img.shields.io/badge/📍-Navi%20Mumbai%2C%20India-A78BFA?style=flat-square&labelColor=312E81"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/subhanseey/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:subhanseey@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/subhanseey"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/subhanseey/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:subhanseey@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/subhanseey"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=subhanseey&style=flat-square&color=7c3aed&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/subhanseey?style=flat-square&color=7c3aed&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/stars/subhanseey?style=flat-square&color=7c3aed&labelColor=1a1a2e"/>
+<img src="https://komarev.com/ghpvc/?username=subhanseey&style=flat-square&color=a78bfa&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/subhanseey?style=flat-square&color=a78bfa&labelColor=312E81"/>
+<img src="https://img.shields.io/github/stars/subhanseey?style=flat-square&color=a78bfa&labelColor=312E81"/>
 
 </div>
 
@@ -145,7 +145,7 @@ Leading ideation and technical implementation across multi-person hackathon team
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-A78BFA?style=for-the-badge&logo=udemy&logoColor=white"/>
 
 **Complete Data Science, Machine Learning, DL, NLP Bootcamp**
 <br/>
@@ -161,22 +161,10 @@ Krish Naik · KRISHAI Technologies Private Limited — 101.5 hours
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhanseey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhanseey&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=subhanseey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&icon_color=a78bfa&text_color=e0e0e0" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhanseey&theme=tokyonight&hide_border=true&background=1a1a2e&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanseey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
-### 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhanseey&theme=gitdimmed&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanseey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&text_color=e0e0e0" width="49%"/>
 
 </div>
 
@@ -188,7 +176,7 @@ Krish Naik · KRISHAI Technologies Private Limited — 101.5 hours
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhanseey&theme=react-dark&hide_border=true&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhanseey&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=c4b5fd&line=a78bfa&point=e0e0e0"/>
 
 </div>
 
@@ -232,9 +220,9 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:subhanseey@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/subhanseey/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/subhanseey"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:subhanseey@gmail.com"><img src="https://img.shields.io/badge/Gmail-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/subhanseey/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/subhanseey"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -246,6 +234,6 @@ Open To:
 
 *"Deploy first. Polish later. But always deploy."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:6B21A8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C4B5FD&height=120&section=footer"/>
 
 </div>
